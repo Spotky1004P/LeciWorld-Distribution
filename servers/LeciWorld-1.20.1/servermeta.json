@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/LeciWorld/LeciWorld-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "리시 월드 모드 팩",
+    "description": "리시 월드를 접속하는데 필수적인 모드가 포함 되어있는 모드팩입니다!",
+    "icon": "https://cdn.discordapp.com/app-assets/1227378958018937015/1227379743633051781.png",
+    "address": "33.r-e.kr",
+    "discord": {
+      "shortId": "리시 월드",
+      "largeImageText": "1.20.1",
+      "largeImageKey": "icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.0"
+  },
+  "untrackedFiles": []
+}
