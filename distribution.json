@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16542,
-                "MD5": "374162e774d7cf1b09af7af4d7805982",
+                "size": 16910,
+                "MD5": "dab5db7fa7d3ca8945946db73e3b5f70",
                 "url": "https://github.com/Spotky1004P/LeciWorld-Distribution/raw/main/repo/versions/1.20.1-forge-47.2.0/1.20.1-forge-47.2.0.json"
               }
             },
@@ -433,6 +433,16 @@
           ]
         },
         {
+          "id": "net.stardustlabs:nullscape:1.2.4@jar",
+          "name": "Nullscape",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 319521,
+            "url": "https://github.com/Spotky1004P/LeciWorld-Distribution/raw/main/servers/LeciWorld-1.20.1/forgemods/required/Nullscape_1.20.4_v1.2.4.jar",
+            "MD5": "5056abb2f4e9f4f9bccb9ec05b44f586"
+          }
+        },
+        {
           "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
           "name": "OptiFine_1.20.1_HD_U_I6_MOD",
           "type": "Library",
@@ -440,6 +450,28 @@
             "size": 6638739,
             "url": "https://github.com/Spotky1004P/LeciWorld-Distribution/raw/main/servers/LeciWorld-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
             "MD5": "7e41a7b6f47493cec8f221b5b83cd042"
+          }
+        },
+        {
+          "id": "xali's Enhanced Vanilla v1.11.1.zip",
+          "name": "xali's Enhanced Vanilla v1.11.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 918919,
+            "url": "https://github.com/Spotky1004P/LeciWorld-Distribution/raw/main/servers/LeciWorld-1.20.1/files/resourcepacks/xali's%20Enhanced%20Vanilla%20v1.11.1.zip",
+            "MD5": "e5d3fb6ef25c11e47f096ee30daa7cac",
+            "path": "resourcepacks/xali's Enhanced Vanilla v1.11.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.0.1.zip",
+          "name": "ComplementaryUnbound_r5.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 402258,
+            "url": "https://github.com/Spotky1004P/LeciWorld-Distribution/raw/main/servers/LeciWorld-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.1.zip",
+            "MD5": "db6cac5a85b9dd9ea7fab453773aae40",
+            "path": "shaderpacks/ComplementaryUnbound_r5.0.1.zip"
           }
         }
       ]
