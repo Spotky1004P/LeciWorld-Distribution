@@ -431,6 +431,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://github.com/Spotky1004P/LeciWorld-Distribution/raw/main/servers/LeciWorld-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "7e41a7b6f47493cec8f221b5b83cd042"
+          }
         }
       ]
     }
